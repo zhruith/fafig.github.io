@@ -1,0 +1,49 @@
+{
+  "blocklist": [],
+  "data": [
+    {
+      "id": "simple_renaming_panel",
+      "schema_version": "1.0.0",
+      "name": "Simple Renaming Panel",
+      "version": "2.1.1",
+      "tagline": "Effortlessly rename multiple objects with this simple addon",
+      "archive_hash": "sha256:029ae9ccc1604dffca244cfb3fb4ad789d2557d27b7c8d696cc6f6fb8d8b66d0",
+      "archive_size": 44880,
+      "archive_url": "https://extensions.blender.org/download/sha256:029ae9ccc1604dffca244cfb3fb4ad789d2557d27b7c8d696cc6f6fb8d8b66d0/add-on-simple-renaming-panel-v2.1.1.zip",
+      "type": "add-on",
+      "blender_version_min": "4.2.0",
+      "website": "https://extensions.blender.org/add-ons/simple-renaming-panel/",
+      "maintainer": "MatthiasPatscheider",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "tags": [
+        "3D View",
+        "Scene",
+        "User Interface"
+      ]
+    },
+    {
+      "id": "Quick_Rigid",
+      "schema_version": "1.0.0",
+      "name": "Quick Rigid",
+      "version": "1.0.2",
+      "tagline": "Easy access to the most used rigid body settings",
+      "archive_hash": "sha256:3e383a6f0dad843738f8bdfed21142a1bf75273a2c50ec6a0a546350ccd7c4a4",
+      "archive_size": 2375,
+      "archive_url": "https://extensions.blender.org/download/sha256:3e383a6f0dad843738f8bdfed21142a1bf75273a2c50ec6a0a546350ccd7c4a4/add-on-quick-rigid-v1.0.2.zip",
+      "type": "add-on",
+      "blender_version_min": "4.2.0",
+      "website": "https://extensions.blender.org/add-ons/quick-rigid/",
+      "maintainer": "THE-EMBER",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "tags": [
+        "Physics",
+        "Object"
+      ]
+    }
+  ],
+  "version": "v1"
+}
